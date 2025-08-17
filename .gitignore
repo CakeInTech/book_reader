@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+out/
+dist/
+
+# Misc
+*.log
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+out/
+dist/
+
+# Misc
+*.log

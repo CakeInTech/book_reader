@@ -1,0 +1,18 @@
+{
+  "name": "pdf-audio-reader",
+  "version": "1.0.0",
+  "description": "Electron app to read PDFs aloud using macOS voices.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:debug": "electron . --remote-debugging-port=9222"
+  },
+  "author": "cake_intech",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.2.67"
+  }
+}
